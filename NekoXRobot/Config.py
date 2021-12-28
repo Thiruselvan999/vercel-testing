@@ -38,7 +38,7 @@ class Config(object):
 
     API_ID = "8564523"
     API_HASH = "1a39289e7dc9aa69b32683dc2adfc875"
-    BOT_ID = "2079359720"
+    BOT_ID = "2098257484"
     TOKEN = "2098257484:AAGgg4x3n2EUNoFRLQiJvFFhaAePvspqY4k"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1989750989  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "HMF_OWNER_1"
@@ -64,7 +64,7 @@ class Config(object):
     URL = None
     HEROKU_API_KEY = ""
     HEROKU_APP_NAME = ""
-    BOT_USERNAME = "WolfXRobot"
+    BOT_USERNAME = "XAlpha_robot"
     SPAMWATCH_API = "ucc_ZXjpLaOloFk_72qZhjfsk4whMUd8P3Ue2gkj1HoIVzAxpDW9yxBy52MkDFuu"  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
     ARQ_API_KEY = "UDJYNO-IDNNXL-UMMVGP-ONRTBG-ARQ"
