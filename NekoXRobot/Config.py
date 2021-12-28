@@ -39,7 +39,7 @@ class Config(object):
     API_ID = "8564523"
     API_HASH = "1a39289e7dc9aa69b32683dc2adfc875"
     BOT_ID = "2079359720"
-    TOKEN = "2079359720:AAHOMb9pb-YVLCyW3SoR2H8CLMD5Gbg96lo"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "2098257484:AAGgg4x3n2EUNoFRLQiJvFFhaAePvspqY4k"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1989750989  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "HMF_OWNER_1"
     SUDO_USERS = "1989750989"
